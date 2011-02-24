@@ -1,3 +1,6 @@
 [submodule "bundle/taskpaper"]
 	path = bundle/taskpaper
 	url = http://github.com/davidoc/taskpaper.vim.git
+[submodule "bundle/NerdTree"]
+	path = bundle/NerdTree
+	url = http://github.com/scrooloose/nerdtree.git
