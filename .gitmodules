@@ -43,3 +43,6 @@
 [submodule "bundle/MRU"]
 	path = bundle/MRU
 	url = http://github.com/vim-scripts/mru.vim.git
+[submodule "bundle/FuzzyFinder"]
+	path = bundle/FuzzyFinder
+	url = http://github.com/vim-scripts/FuzzyFinder.git
