@@ -4,9 +4,6 @@
 [submodule "bundle/NerdTree"]
 	path = bundle/NerdTree
 	url = http://github.com/scrooloose/nerdtree.git
-[submodule "bundle/vim-preview"]
-	path = bundle/vim-preview
-	url = http://github.com/greyblake/vim-preview.git
 [submodule "bundle/gundo"]
 	path = bundle/gundo
 	url = http://github.com/sjl/gundo.vim.git
@@ -16,21 +13,12 @@
 [submodule "bundle/tabular"]
 	path = bundle/tabular
 	url = http://github.com/godlygeek/tabular.git
-[submodule "bundle/html5"]
-	path = bundle/html5
-	url = http://github.com/othree/html5.vim.git
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
 	url = http://github.com/tpope/vim-fugitive.git
-[submodule "bundle/vim-haml"]
-	path = bundle/vim-haml
-	url = http://github.com/tpope/vim-haml.git
 [submodule "bundle/vim-git"]
 	path = bundle/vim-git
 	url = http://github.com/tpope/vim-git.git
-[submodule "bundle/vim-markdown"]
-	path = bundle/vim-markdown
-	url = http://github.com/tpope/vim-markdown.git
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
 	url = http://github.com/tpope/vim-surround.git
@@ -52,3 +40,18 @@
 [submodule "bundle/open-browser"]
 	path = bundle/open-browser
 	url = http://github.com/tyru/open-browser.vim.git
+[submodule "bundle/vim-easymotion"]
+	path = bundle/vim-easymotion
+	url = http://github.com/Lokaltog/vim-easymotion
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = http://github.com/ervandew/supertab
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = http://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/asciidoc"]
+	path = bundle/asciidoc
+	url = http://github.com/dagwieers/asciidoc-vim.git
+[submodule "bundle/virtualenv"]
+	path = bundle/virtualenv
+	url = http://github.com/jmcantrell/vim-virtualenv.git
