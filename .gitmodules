@@ -55,3 +55,6 @@
 [submodule "bundle/virtualenv"]
 	path = bundle/virtualenv
 	url = http://github.com/jmcantrell/vim-virtualenv.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = http://github.com/scrooloose/syntastic
